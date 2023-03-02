@@ -9,11 +9,6 @@ int main()
     {
         scanf("%d",(p+i));
     }
-    // for (int i = 0; i < n; i++)
-    // {
-    //     printf("%d ",*(p+i));
-    // }
-    // printf("\n");
     int b[n];
     int *p2=&b[0];
     for (int i = 0; i < n; i++)
